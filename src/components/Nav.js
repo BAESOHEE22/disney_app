@@ -5,7 +5,7 @@ const Nav = () => {
   return (
     <NavWrapper>
       <Logo>
-        <img src = "/images/logo.svg" alt = "disney Plus Logo" />
+        <img src = "./images/logo.svg" alt = "disney Plus Logo" />
       </Logo>
     </NavWrapper>
   )
